@@ -1,0 +1,42 @@
+c
+m
+r
+l
+f
+s
+d
+s
+p
+e 1
+e 2
+e 3
+p
+s
+d
+s
+d
+p
+s
+d
+s
+p
+d
+p
+s
+e 5
+e 6
+e 7
+n
+l
+s
+p
+e 7
+f
+r
+e 8
+f
+r
+e 9
+f
+r
+p
